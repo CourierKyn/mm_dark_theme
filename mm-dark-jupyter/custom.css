@@ -161,6 +161,7 @@ blockquote {
 .rendered_html table, .rendered_html th, .rendered_html tr, .rendered_html td {
   border: 1px  #bbc0c9 solid;
   color: #bbc0c9;
+  background-color: #303540;
 }
 
 table.dataframe tr {border: 1px #bbc0c9;}
